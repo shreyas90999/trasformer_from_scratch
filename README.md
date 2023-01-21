@@ -1,4 +1,4 @@
-#Trasformer From Scratch
+# Trasformer From Scratch
 All it took was 281 lines of code to get all attention.
 
 Gave a shot to implement transfomer myself
